@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">sqllite</string>
+    <string name="txtNome">Nome:</string>
+    <string name="txtEndereco">Endereço:</string>
+    <string name="txtBairro">Bairro:</string>
+    <string name="txtCep">Cep:</string>
+    <string name="txtTelefone">Telefone:</string>
+    <string name="btnCadastrar">Cadastrar</string>
+    <string name="txtResposta">Confirmar os dados</string>
+    <string name="btnConfirmar">Confirmar</string>
+</resources>
